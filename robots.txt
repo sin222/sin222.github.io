@@ -7,4 +7,4 @@ Allow: /
 User-agent: Googlebot
 Allow: /
 
-Sitemap: https://sin222.github.io/260501study/sitemap.xml
+Sitemap: https://sin222.github.io/sitemap.xml
